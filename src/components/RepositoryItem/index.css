@@ -1,0 +1,46 @@
+.repo-img {
+  width: 20%;
+  margin-top: 30px;
+}
+
+.list-card {
+  background-color: #f8f8ff;
+  padding: 10px;
+  border-radius: 15px;
+  height: 30%;
+  width: 30%;
+  margin: 0px 20px 20px 20px;
+  border: 1px solid lightslategrey;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  color: #e73959;
+  font-size: 28px;
+}
+
+.div {
+  display: flex;
+  align-items: center;
+}
+
+.pic {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.pic-para {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 30px;
+}

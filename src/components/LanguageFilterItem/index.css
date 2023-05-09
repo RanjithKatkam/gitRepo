@@ -1,0 +1,17 @@
+.link {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 20px;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+.activeTab {
+  border: 3px solid #0284c7;
+  color: #0284c7;
+  padding: 0px 20px;
+  border-radius: 20px;
+  background-color: aliceblue;
+}
